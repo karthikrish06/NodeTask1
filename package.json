@@ -1,0 +1,16 @@
+{
+  "name": "zen_node_roadmap_task-1",
+  "version": "1.0.0",
+  "description": "Zen Node Task 1",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
